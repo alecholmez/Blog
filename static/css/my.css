@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato';
+}
+
+.profile h1 {
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.profile h2 {
+    font: inherit;
+    font-size: 1.5rem;
+}
+
+.post h1 {
+    font-weight: 900;
+    font-size: 3rem;
+    color: #222;
+}
+
+.post h2 {
+    font-weight: 900;
+    font-size: 2rem;
+    color: #333;
+}
+
+.post h2.subtitle {
+    font-style: normal;
+    font-family: 'Lato';
+}
+
+#post-body h2 {
+    margin-bottom: 20px;
+}
+
+#post-body p {
+    font-family: 'Nunito', 'Lato';
+}
