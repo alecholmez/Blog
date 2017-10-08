@@ -3,107 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alecholmez.github.io/posts/car-post/</loc>
+    <loc>https://alecholmez.github.io/Blog/posts/car-post/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/posts/intial-post/</loc>
+    <loc>https://alecholmez.github.io/Blog/posts/intial-post/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/</loc>
+    <loc>https://alecholmez.github.io/Blog/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/cars/</loc>
+    <loc>https://alecholmez.github.io/Blog/tags/cars/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/categories/cars/</loc>
+    <loc>https://alecholmez.github.io/Blog/categories/cars/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/categories/</loc>
+    <loc>https://alecholmez.github.io/Blog/categories/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/development/</loc>
-    <lastmod>2017-10-06T15:47:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/categories/development/</loc>
+    <loc>https://alecholmez.github.io/Blog/tags/development/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/go/</loc>
+    <loc>https://alecholmez.github.io/Blog/categories/development/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/golang/</loc>
+    <loc>https://alecholmez.github.io/Blog/tags/go/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/categories/golang/</loc>
+    <loc>https://alecholmez.github.io/Blog/tags/golang/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/gti/</loc>
-    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/tags/modding/</loc>
-    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/categories/modding/</loc>
-    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/posts/</loc>
-    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/tags/</loc>
-    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alecholmez.github.io/tags/templates/</loc>
+    <loc>https://alecholmez.github.io/Blog/categories/golang/</loc>
     <lastmod>2017-10-06T15:47:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alecholmez.github.io/tags/volkswagen/</loc>
+    <loc>https://alecholmez.github.io/Blog/tags/gti/</loc>
+    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/tags/modding/</loc>
+    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/categories/modding/</loc>
+    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/posts/</loc>
+    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/tags/</loc>
+    <lastmod>2017-10-06T17:49:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/tags/templates/</loc>
+    <lastmod>2017-10-06T15:47:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alecholmez.github.io/Blog/tags/volkswagen/</loc>
     <lastmod>2017-10-06T17:49:17-04:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modding on Alec Holmes</title>
-    <link>https://alecholmez.github.io/tags/modding/</link>
+    <link>https://alecholmez.github.io/Blog/tags/modding/</link>
     <description>Recent content in Modding on Alec Holmes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Oct 2017 17:49:17 -0400</lastBuildDate>
     
-	<atom:link href="https://alecholmez.github.io/tags/modding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alecholmez.github.io/Blog/tags/modding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2012 GTI Stage 1 Tune</title>
-      <link>https://alecholmez.github.io/posts/car-post/</link>
+      <link>https://alecholmez.github.io/Blog/posts/car-post/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/posts/car-post/</guid>
+      <guid>https://alecholmez.github.io/Blog/posts/car-post/</guid>
       <description>This week I recently purchase a tune from APR (specifically Stage 1 plus on 93 octane). I just installed it through the OBD II port located under the steering column on the driver side, and boy do you feel a difference. APR specializes in german performance which is why I chose their brand for my 2012 GTI. Out of the factory these cars are making around 195hp to the wheels (not to shabby), but with this new tune, APR suggests that the average MK6 GTI will make around 240hp to the wheels!</description>
     </item>
     

@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alec Holmes</title>
-    <link>https://alecholmez.github.io/tags/</link>
+    <link>https://alecholmez.github.io/Blog/tags/</link>
     <description>Recent content in Tags on Alec Holmes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Oct 2017 17:49:17 -0400</lastBuildDate>
     
-	<atom:link href="https://alecholmez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alecholmez.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cars</title>
-      <link>https://alecholmez.github.io/tags/cars/</link>
+      <link>https://alecholmez.github.io/Blog/tags/cars/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/cars/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://alecholmez.github.io/tags/development/</link>
+      <link>https://alecholmez.github.io/Blog/tags/development/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/development/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://alecholmez.github.io/tags/go/</link>
+      <link>https://alecholmez.github.io/Blog/tags/go/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/go/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://alecholmez.github.io/tags/golang/</link>
+      <link>https://alecholmez.github.io/Blog/tags/golang/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/golang/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gti</title>
-      <link>https://alecholmez.github.io/tags/gti/</link>
+      <link>https://alecholmez.github.io/Blog/tags/gti/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/gti/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/gti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modding</title>
-      <link>https://alecholmez.github.io/tags/modding/</link>
+      <link>https://alecholmez.github.io/Blog/tags/modding/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/modding/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/modding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://alecholmez.github.io/tags/templates/</link>
+      <link>https://alecholmez.github.io/Blog/tags/templates/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/templates/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volkswagen</title>
-      <link>https://alecholmez.github.io/tags/volkswagen/</link>
+      <link>https://alecholmez.github.io/Blog/tags/volkswagen/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/tags/volkswagen/</guid>
+      <guid>https://alecholmez.github.io/Blog/tags/volkswagen/</guid>
       <description></description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alec Holmes</title>
-    <link>https://alecholmez.github.io/categories/</link>
+    <link>https://alecholmez.github.io/Blog/categories/</link>
     <description>Recent content in Categories on Alec Holmes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Oct 2017 17:49:17 -0400</lastBuildDate>
     
-	<atom:link href="https://alecholmez.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alecholmez.github.io/Blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cars</title>
-      <link>https://alecholmez.github.io/categories/cars/</link>
+      <link>https://alecholmez.github.io/Blog/categories/cars/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/categories/cars/</guid>
+      <guid>https://alecholmez.github.io/Blog/categories/cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://alecholmez.github.io/categories/development/</link>
+      <link>https://alecholmez.github.io/Blog/categories/development/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/categories/development/</guid>
+      <guid>https://alecholmez.github.io/Blog/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://alecholmez.github.io/categories/golang/</link>
+      <link>https://alecholmez.github.io/Blog/categories/golang/</link>
       <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/categories/golang/</guid>
+      <guid>https://alecholmez.github.io/Blog/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modding</title>
-      <link>https://alecholmez.github.io/categories/modding/</link>
+      <link>https://alecholmez.github.io/Blog/categories/modding/</link>
       <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
       
-      <guid>https://alecholmez.github.io/categories/modding/</guid>
+      <guid>https://alecholmez.github.io/Blog/categories/modding/</guid>
       <description></description>
     </item>
     
