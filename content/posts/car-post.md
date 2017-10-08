@@ -1,7 +1,6 @@
 +++
 title = "2012 GTI Stage 1 Tune"
 date = 2017-10-06T17:49:17-04:00
-draft = true
 description = "Easy 50 horsepower"
 tags = [
     "Cars",

@@ -2,7 +2,6 @@
 title = "Future Endeavors"
 description = "Raw CSS styles for language specific syntax highlighting?"
 date = 2017-10-06T15:47:22-04:00
-draft = true
 tags = [
     "go",
     "golang",
