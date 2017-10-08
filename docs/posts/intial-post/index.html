@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Alec Holmes">
+<meta name="description" content="A blog?">
+<meta name="generator" content="Hugo 0.29" />
+<title>Future Endeavors</title>
+<link rel="shortcut icon" href="http://alecholmes.me/images/favicon.ico">
+<link rel="stylesheet" href="http://alecholmes.me/css/style.css">
+<link rel="stylesheet" href="http://alecholmes.me/css/highlight.css">
+
+<link rel="stylesheet" href="http://alecholmes.me/css/my.css">
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Nunito" rel="stylesheet"> 
+
+
+
+<link rel="stylesheet" href="http://alecholmes.me/css/monosocialiconsfont.css">
+
+
+
+<link href="http://alecholmes.me/index.xml" rel="alternate" type="application/rss+xml" title="Alec Holmes" />
+
+
+<meta property="og:title" content="Future Endeavors" />
+<meta property="og:description" content="Raw CSS styles for language specific syntax highlighting?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://alecholmes.me/posts/intial-post/" />
+
+
+
+<meta property="article:published_time" content="2017-10-06T15:47:22-04:00"/>
+<meta property="article:modified_time" content="2017-10-06T15:47:22-04:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Future Endeavors">
+<meta itemprop="description" content="Raw CSS styles for language specific syntax highlighting?">
+
+
+<meta itemprop="dateModified" content="2017-10-06T15:47:22-04:00" />
+<meta itemprop="wordCount" content="183">
+
+
+
+<meta itemprop="keywords" content="go,golang,templates,development," />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Future Endeavors"/>
+<meta name="twitter:description" content="Raw CSS styles for language specific syntax highlighting?"/>
+<meta name="twitter:site" content="@https://www.twitter.com/aleccholmes"/>
+
+
+    </head>
+<body>
+    <nav class="main-nav">
+	
+		<a href='http://alecholmes.me/'> <span class="arrow">←</span>Home</a>
+	
+
+	
+
+	
+		<a class="cta" href="http://alecholmes.me/index.xml">Subscribe</a>
+	
+</nav>
+
+    <section id="wrapper">
+        
+        
+<div class="post-wrapper">
+    <article class="post">
+        <header>
+            <h1>Future Endeavors</h1>
+            <h2 class="subtitle">Raw CSS styles for language specific syntax highlighting?</h2>
+            <h2 class="headline">
+            October 6, 2017
+            <br>
+            
+            
+                
+                    <a href="http://alecholmes.me/tags/go">go</a>
+                
+                    <a href="http://alecholmes.me/tags/golang">golang</a>
+                
+                    <a href="http://alecholmes.me/tags/templates">templates</a>
+                
+                    <a href="http://alecholmes.me/tags/development">development</a>
+                
+            
+            
+            </h2>
+        </header>
+        <section id="post-body">
+            
+
+<p>Changing the code syntax highlighting to match Github&rsquo;s was rather difficult with this theme as it has limited highlighting classes, but now this theme looks fantastic.</p>
+
+<h3 id="example">Example:</h3>
+
+<pre><code class="language-go">package main
+
+import (
+    &quot;net/http&quot;
+)
+
+func main() {
+
+    // Create basic HTTP server
+    s := http.Server{
+        Addr: &quot;0.0.0.0:8080&quot;,
+        // Wrap our mux router in the middleware stack
+        Handler: stack.Wrap(router),
+    }
+
+    // Start the server
+    s.ListenAndServe()
+}
+</code></pre>
+
+<p>Now that I&rsquo;ve successfully changed the CSS styles for the language specific code highlighting to match Github&rsquo;s flavor, I feel this theme has become much more appealing. The code is easier to read, yet still loud enough that it draws the attention of the reader/developer. Next step is to integrate comments so I can get the feedback of my readers!</p>
+
+<p>After the comments functionality, I need to organize the blog into categories. Currently everything is posted in chronological order and while that is certainly appealing and intuitive, I feel that not everyone is interested in everything, Ya get me?. Hence the need for logical separation throughout the blog without encroaching on the chronological ordering of the main post listing.</p>
+
+        </section>
+    </article>
+
+    <footer id="post-meta" class="clearfix">
+        <a href="https://twitter.com/@aleccholmes">
+        <img class="avatar" src="http://alecholmes.me/images/avatar.png">
+        <div>
+            <span class="dark">Alec Holmes</span>
+            <span>I think I&#39;m a developer...</span>
+        </div>
+        </a>
+        <section id="sharing">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2falecholmes.me%2fposts%2fintial-post%2f - Future%20Endeavors by @%40aleccholmes"><span class="icon-twitter"> tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+        </section>
+    </footer>
+</div>
+
+
+
+<div id="post-list-wrapper">
+    <ul id="post-list" class="archive readmore">
+        <h3>Read more</h3>
+
+        
+        
+        
+            <li>
+                <a href="/posts/car-post/">2012 GTI Stage 1 Tune<aside class="dates">Oct 6 2017</aside></a>
+            </li>
+        
+    </ul>
+</div>
+
+
+
+        <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    
+    <a class="symbol" href="https://www.github.com/alecholmez">
+        circlegithub
+    </a>
+    
+    <a class="symbol" href="https://www.twitter.com/aleccholmes">
+        circletwitterbird
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        © Copyright 2017 Alec Holmes
+    
+    </p>
+</footer>
+
+    </section>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://alecholmes.me/js/main.js"></script>
+<script src="http://alecholmes.me/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+</body>
+</html>

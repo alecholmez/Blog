@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alec Holmes</title>
+    <link>http://alecholmes.me/tags/</link>
+    <description>Recent content in Tags on Alec Holmes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2017 17:49:17 -0400</lastBuildDate>
+    
+	<atom:link href="http://alecholmes.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cars</title>
+      <link>http://alecholmes.me/tags/cars/</link>
+      <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/cars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>http://alecholmes.me/tags/development/</link>
+      <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://alecholmes.me/tags/go/</link>
+      <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://alecholmes.me/tags/golang/</link>
+      <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gti</title>
+      <link>http://alecholmes.me/tags/gti/</link>
+      <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/gti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modding</title>
+      <link>http://alecholmes.me/tags/modding/</link>
+      <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/modding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>http://alecholmes.me/tags/templates/</link>
+      <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volkswagen</title>
+      <link>http://alecholmes.me/tags/volkswagen/</link>
+      <pubDate>Fri, 06 Oct 2017 17:49:17 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/tags/volkswagen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

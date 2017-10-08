@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Alec Holmes</title>
+    <link>http://alecholmes.me/categories/golang/</link>
+    <description>Recent content in Golang on Alec Holmes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2017 15:47:22 -0400</lastBuildDate>
+    
+	<atom:link href="http://alecholmes.me/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Future Endeavors</title>
+      <link>http://alecholmes.me/posts/intial-post/</link>
+      <pubDate>Fri, 06 Oct 2017 15:47:22 -0400</pubDate>
+      
+      <guid>http://alecholmes.me/posts/intial-post/</guid>
+      <description>Changing the code syntax highlighting to match Github&amp;rsquo;s was rather difficult with this theme as it has limited highlighting classes, but now this theme looks fantastic.
+Example: package main import ( &amp;quot;net/http&amp;quot; ) func main() { // Create basic HTTP server s := http.Server{ Addr: &amp;quot;0.0.0.0:8080&amp;quot;, // Wrap our mux router in the middleware stack Handler: stack.Wrap(router), } // Start the server s.ListenAndServe() }  Now that I&amp;rsquo;ve successfully changed the CSS styles for the language specific code highlighting to match Github&amp;rsquo;s flavor, I feel this theme has become much more appealing.</description>
+    </item>
+    
+  </channel>
+</rss>
