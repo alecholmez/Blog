@@ -649,7 +649,6 @@ h2.month {
 
 /* Media Queries */
 @media screen and (max-width: 540px) {
-	#wrapper { padding:20px 20px 20px 20px;}
 	.post { margin: 40px 0; }
 
 	#post-list, #archive-list { margin-top: 0; }
@@ -664,6 +663,15 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+
+	.profile {
+		top: -50px;
+		background-image: url("../images/forest.jpg");
+		background-size: 250%;
+		background-attachment: fixed;
+		color: white;
+		height: 500px;
+	}
 }
 
 
