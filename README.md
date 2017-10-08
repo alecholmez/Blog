@@ -1,0 +1,3 @@
+# Blog
+
+My Hugo blog

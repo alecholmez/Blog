@@ -1,4 +1,4 @@
-baseURL = "http://alecholmes.me/"
+baseURL = "https://alecholmez.github.io/"
 languageCode = "en-us"
 title = "Alec Holmes"
 theme = "hugo-cactus-theme"
